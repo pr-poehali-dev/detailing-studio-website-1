@@ -77,7 +77,7 @@ const Index = () => {
       <section className="pt-32 pb-20 px-4">
         <div className="container mx-auto text-center animate-fade-in">
           <h1 className="text-6xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-primary via-primary/80 to-primary/60 bg-clip-text text-transparent">
-            Премиальный детейлинг
+            Детейлинг - студия "CT Detailing"
           </h1>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
             Профессиональный уход за вашим автомобилем. Возвращаем блеск и защищаем на долгие годы
