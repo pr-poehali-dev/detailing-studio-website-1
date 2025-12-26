@@ -56,7 +56,7 @@ const Index = () => {
         <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="Gem" className="text-primary" size={28} />
-            <span className="text-2xl font-bold">Premium Detailing</span>
+            <span className="text-2xl font-bold">CT Detailing</span>
           </div>
           <div className="hidden md:flex gap-8">
             <a href="#about" className="hover:text-primary transition-colors">О нас</a>
@@ -98,7 +98,7 @@ const Index = () => {
             <div className="animate-fade-in">
               <h2 className="text-4xl font-bold mb-6">О нас</h2>
               <p className="text-muted-foreground text-lg mb-4">
-                Premium Detailing — это команда профессионалов с многолетним опытом в сфере автомобильного детейлинга.
+                CT Detailing — это команда профессионалов с многолетним опытом в сфере автомобильного детейлинга.
               </p>
               <p className="text-muted-foreground text-lg mb-6">
                 Мы используем только сертифицированные материалы от ведущих мировых производителей и современное оборудование, чтобы обеспечить максимальное качество обслуживания.
@@ -311,7 +311,7 @@ const Index = () => {
 
       <footer className="py-8 px-4 border-t border-border">
         <div className="container mx-auto text-center text-muted-foreground">
-          <p>&copy; 2024 Premium Detailing. Все права защищены.</p>
+          <p>&copy; 2024 CT Detailing. Все права защищены.</p>
         </div>
       </footer>
     </div>
