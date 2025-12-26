@@ -55,7 +55,7 @@ const Index = () => {
       <header className="fixed top-0 w-full z-50 bg-background/80 backdrop-blur-md border-b border-border">
         <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <Icon name="Gem" className="text-primary" size={28} />
+            <Icon name="Sparkles" className="text-primary" size={28} />
             <span className="text-2xl font-bold">CT Detailing</span>
           </div>
           <div className="hidden md:flex gap-8">
