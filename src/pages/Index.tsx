@@ -54,9 +54,12 @@ const Index = () => {
     <div className="min-h-screen bg-background">
       <header className="fixed top-0 w-full z-50 bg-background/80 backdrop-blur-md border-b border-border">
         <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
-          <div className="flex items-center gap-2">
-            <Icon name="Sparkles" className="text-primary" size={28} />
-            <span className="text-2xl font-bold">CT Detailing</span>
+          <div className="flex items-center gap-3">
+            <img 
+              src="https://cdn.poehali.dev/files/32322.png" 
+              alt="CT Detailing" 
+              className="h-12 w-12"
+            />
           </div>
           <div className="hidden md:flex gap-8">
             <a href="#about" className="hover:text-primary transition-colors">О нас</a>
