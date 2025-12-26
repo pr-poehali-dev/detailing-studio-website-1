@@ -58,7 +58,7 @@ const Index = () => {
             <img 
               src="https://cdn.poehali.dev/files/32322.png" 
               alt="CT Detailing" 
-              className="h-12 w-12"
+              className="h-16 w-16"
             />
           </div>
           <div className="hidden md:flex gap-8">
